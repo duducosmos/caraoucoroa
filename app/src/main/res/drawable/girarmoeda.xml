@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/moeda000" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda001" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda002" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda003" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda004" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda005" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda006" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda007" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda008" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda009" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda010" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda011" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda012" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda013" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda014" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda015" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda016" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda017" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda018" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda019" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda020" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda021" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda022" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda023" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda024" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda025" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda026" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda027" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda028" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda029" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda030" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda031" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda032" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda033" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda034" android:duration="@string/duracao_animacao" />
+    <item android:drawable="@drawable/moeda035" android:duration="@string/duracao_animacao" />
+</animation-list>

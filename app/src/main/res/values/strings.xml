@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cara ou Coroa</string>
+    <string name='duracao_animacao'>10</string>
+    <string name="cara">Cara</string>
+    <string name="coroa">Coroa</string>
+    <string name="introducao">Escolha uma opção (Cara ou Coroa) e depois clique na Moeda</string>
+    <string name="banner_home_footer">ca-app-pub-3304253168392468/1010609290</string>
+</resources>
